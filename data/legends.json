@@ -1,0 +1,282 @@
+[
+{
+"name": "Bangalore",
+"class": "Assault",
+"real": "Anita Williams",
+"born": null,
+"birthplace": null,
+"debut": "Launch (Pre-Season)",
+"release": "2019-02-04",
+"arc": "Soldier from Gridiron who entered the Apex Games in 2730 while searching for her missing brother Jackson. Her search ends in Season 13 when she discovers he has been living under a new identity in Harris Valley."
+},
+{
+"name": "Bloodhound",
+"class": "Recon",
+"real": "Unknown",
+"born": null,
+"birthplace": "World's Edge",
+"debut": "Launch (Pre-Season)",
+"release": "2019-02-04",
+"arc": "Tracker raised by an uncle's tribe after their parents died in a flash freeze at a coolant plant. Faces and overcomes guilt over World's Edge's decline in Season 10, and relocates their village to Storm Point in Season 14."
+},
+{
+"name": "Caustic",
+"class": "Controller",
+"real": "Alexander Maxwell Nox",
+"born": 2685,
+"birthplace": "Hollygrove, Gaea",
+"debut": "Launch (Pre-Season)",
+"release": "2019-02-04",
+"arc": "Scientist who killed a colleague who discovered his experiments and faked his own death in 2722. Joins the Apex Games in 2730; in Season 8 his plan to turn Water Treatment into a toxin lab is stopped by Wattson."
+},
+{
+"name": "Gibraltar",
+"class": "Support",
+"real": "Makoa Gibraltar",
+"born": 2702,
+"birthplace": "Solace",
+"debut": "Launch (Pre-Season)",
+"release": "2019-02-04",
+"arc": "Son of the family behind the SARAS rescue organization. Ran away as a teen during the Outlands Civil War, worked at the Thunderdome, and began competing in the Games in 2730. Rescues Michael Gentile in Season 16."
+},
+{
+"name": "Lifeline",
+"class": "Support",
+"real": "Ajay Che",
+"born": 2709,
+"birthplace": "Psamathe",
+"debut": "Launch (Pre-Season)",
+"release": "2019-02-04",
+"arc": "Left her family after learning about their war profiteering and joined the Frontier Corps. Confronts Duardo Silva over the Icarus Fleet in Season 9, and in Season 16 works against the Syndicate and helps free Mad Maggie from prison."
+},
+{
+"name": "Mirage",
+"class": "Support",
+"real": "Elliott Witt",
+"born": 2702,
+"birthplace": "Solace",
+"debut": "Launch (Pre-Season)",
+"release": "2019-02-04",
+"arc": "Owner of the Paradise Lounge family business. His three brothers went missing when a military transport went down over Gaea. Begins competing in 2732, and his party boat repeatedly changes locations across seasons."
+},
+{
+"name": "Pathfinder",
+"class": "Skirmisher",
+"real": "MRVN (pronounced Marvin)",
+"born": 2655,
+"birthplace": "Built by Project Iris",
+"debut": "Launch (Pre-Season)",
+"release": "2019-02-04",
+"arc": "Robot assembled by Project Iris scientists in 2655, who wakes up alone in a Solace warehouse in 2700. Searches for his creators and past; his part in ending the Outlands energy crisis becomes public in Season 9."
+},
+{
+"name": "Wraith",
+"class": "Skirmisher",
+"real": "Renee Hope Blasey",
+"born": 2701,
+"birthplace": "Typhon (alternate dimension)",
+"debut": "Launch (Pre-Season)",
+"release": "2019-02-04",
+"arc": "Escaped a Kings Canyon facility in 2726 by swapping places with her alternate self. Begins competing in 2730, and in Season 2 uncovers Singh Labs and documents about her past life."
+},
+{
+"name": "Octane",
+"class": "Skirmisher",
+"real": "Octavio Silva",
+"born": 2709,
+"birthplace": "Psamathe",
+"debut": "Season 1 - Wild Frontier",
+"release": "2019-03-19",
+"arc": "Heir to the Silva Pharmaceuticals family who tries out for the Games in Season 1. Learns in Season 7 that his father orchestrated a terrorist attack, and in Season 12 that his father has been dead for years with his grandfather Torres posing as him."
+},
+{
+"name": "Wattson",
+"class": "Controller",
+"real": "Natalie Paquette",
+"born": 2709,
+"birthplace": "Solace",
+"debut": "Season 2 - Battle Charge",
+"release": "2019-07-02",
+"arc": "Engineer whose prototype for the Ring burned down a forest in 2726 before Wraith saved her. Her relationship with Crypto is mended in Season 7, and in Season 14 she repairs a comm unit that connects to Mila Alexander."
+},
+{
+"name": "Crypto",
+"class": "Recon",
+"real": "Tae-Joon Park",
+"born": 2709,
+"birthplace": "Gaea",
+"debut": "Season 3 - Meltdown",
+"release": "2019-10-01",
+"arc": "Hacker framed for the apparent murder of his foster sister Mila after he uncovered an Apex Games prediction algorithm. Sneaks into the Games under an alias and spends years trying to contact Mila. Partners with Ash in Season 11."
+},
+{
+"name": "Revenant",
+"class": "Assault",
+"real": "Kaleb Cross",
+"born": 2356,
+"birthplace": "The Outlands",
+"debut": "Season 4 - Assimilation",
+"release": "2020-02-04",
+"arc": "A man killed in 2400 whose brain was later uploaded into a simulacrum body (2420). Joins the Games, becomes a target of Loba's hunt in Season 5, and his missing source code drives plots through Seasons 7 to 18."
+},
+{
+"name": "Loba",
+"class": "Support",
+"real": "Loba Andrade",
+"born": 2699,
+"birthplace": "The Outlands",
+"debut": "Season 5 - Fortune's Favor",
+"release": "2020-05-12",
+"arc": "High-society thief whose goal is tracking down Revenant. Destroys a warehouse of Revenant bodies in Season 5 and recruits other Legends for a beta-plane artifact. Her partnership with Valkyrie is damaged in Season 18."
+},
+{
+"name": "Rampart",
+"class": "Controller",
+"real": "Ramya Parekh",
+"born": null,
+"birthplace": null,
+"debut": "Season 6 - Boosted",
+"release": "2020-08-18",
+"arc": "Modder and former member of The Sisters. Her shop is burned in Season 6, and in Season 16 she angrily refuses an offer to return to The Sisters."
+},
+{
+"name": "Horizon",
+"class": "Skirmisher",
+"real": "Mary Somers",
+"born": 2609,
+"birthplace": "Psamathe",
+"debut": "Season 7 - Ascension",
+"release": "2020-11-04",
+"arc": "Scientist abandoned near a black hole in 2646, where 87 years passed for the world while she experienced 246 days. Joins the Games in Season 7 to fund time-travel research, and in Season 10 forcibly awakens Ash's human identity."
+},
+{
+"name": "Fuse",
+"class": "Assault",
+"real": "Walter Fitzroy Jr.",
+"born": 2680,
+"birthplace": "Salvo",
+"debut": "Season 8 - Mayhem",
+"release": "2021-02-02",
+"arc": "Mercenary from Salvo who became the oldest Bonecage qualifier at 51. Joining the Games costs him his arm in Season 8 when his friend Maggie turns on him. In Season 16 he travels to Salvo with Ajay Che."
+},
+{
+"name": "Valkyrie",
+"class": "Recon",
+"real": "Kairi Imahara",
+"born": 2704,
+"birthplace": "Angelia",
+"debut": "Season 9 - Legacy",
+"release": "2021-05-04",
+"arc": "Pilot who took a smuggling job in 2730 to retrieve her father's Northstar. Makes a deal with Revenant in Season 14, and in Season 18 secretly works with him to destroy his source code, which damages her relationship with Loba."
+},
+{
+"name": "Seer",
+"class": "Recon",
+"real": "Obi Edolasim",
+"born": null,
+"birthplace": null,
+"debut": "Season 10 - Emergence",
+"release": "2021-08-03",
+"arc": "Famed Arenas fighter who joins the Games in Season 10. Is targeted by Lisa Stone's smear interview in Season 13, and in Season 14 helps expand the Games to Boreas, which makes him a target of public anger."
+},
+{
+"name": "Ash",
+"class": "Skirmisher",
+"real": "Ashleigh Reid",
+"born": 2613,
+"birthplace": "The Frontier",
+"debut": "Season 11 - Escape",
+"release": "2021-11-02",
+"arc": "Scientist who left her colleague Mary Somers to die in 2646, then was converted into a simulacrum in 2655. Her head is rebuilt in Season 5, her human identity is awakened in Season 10, and she joins the Games in Season 11 to search for her past."
+},
+{
+"name": "Mad Maggie",
+"class": "Assault",
+"real": "Margaret Kōhere",
+"born": 2679,
+"birthplace": "Salvo",
+"debut": "Season 12 - Defiance",
+"release": "2022-02-08",
+"arc": "Fuse's former friend who attacks him and hijacks the Games in Season 8. Captured and sentenced to fight in the Games in Season 12, then broken out of prison by Ajay Che in Season 16."
+},
+{
+"name": "Newcastle",
+"class": "Support",
+"real": "Jackson Williams",
+"born": 2694,
+"birthplace": "Gridiron",
+"debut": "Season 13 - Saviors",
+"release": "2022-05-10",
+"arc": "Anita Williams's brother, long presumed dead. Takes up the Newcastle identity in Season 13 to protect Harris Valley and pay off debts, and is discovered by Anita during the same season."
+},
+{
+"name": "Vantage",
+"class": "Recon",
+"real": "Xiomara Contreras",
+"born": null,
+"birthplace": null,
+"debut": "Season 14 - Hunted",
+"release": "2022-08-09",
+"arc": "Sniper who joins the Games in Season 14 to bring attention to her mother Xenia's wrongful imprisonment. Her bat companion Echo appears alongside her."
+},
+{
+"name": "Catalyst",
+"class": "Controller",
+"real": "Tressa Crystal Smith",
+"born": null,
+"birthplace": null,
+"debut": "Season 15 - Eclipse",
+"release": "2022-11-01",
+"arc": "Terraformer for the Cleo Recovery Council. Joins the Games in Season 15 after the Syndicate takes over Hope on Cleo and ends the council's services."
+},
+{
+"name": "Ballistic",
+"class": "Assault",
+"real": "August Montgomery Brinkman",
+"born": 2672,
+"birthplace": "Gaea",
+"debut": "Season 17 - Arsenal",
+"release": "2023-05-09",
+"arc": "Veteran who started competing in the Thunderdome in 2705, long before the Apex Games began."
+},
+{
+"name": "Conduit",
+"class": "Support",
+"real": "Rowenna Valentina Coffey Divina",
+"born": 2708,
+"birthplace": "Nexus (a Fringe World)",
+"debut": "Season 19 - Ignite",
+"release": "2023-10-31",
+"arc": "Born on Nexus, where a rebellion against the monarchy ended when a Monarch Titan's pilot detonated its battery, leaving an irradiated quarantine zone. A fan of the Apex Games from the start in 2729, she retrieved that battery to power an exosuit built with help from her community, and fought in local rings to support her family while the radiation slowly harmed her. She became the first Nexus resident invited to the Games, over the objections of her sister Diwa, and later wondered whether the other Legends were truly friends or just polite."
+},
+{
+"name": "Alter",
+"class": "Skirmisher",
+"real": "YingLing Lui",
+"born": null,
+"birthplace": null,
+"debut": "Season 21 - Upheaval",
+"release": "2024-05-07",
+"arc": "Dimension-hopping thief and mercenary whose origins, birth year and source of her Void tech are all unknown. She travels between universes for amusement, is drawn to dying worlds, and traced several collapses back to Horizon. In Season 21 she steals an Ark shard and manipulates Horizon, offering to help her reunite with her son Newton, while Ash sets out to stop her. The wild stories she tells about her past are deliberate jokes."
+},
+{
+"name": "Sparrow",
+"class": "Recon",
+"real": "Enea Davide Guarino",
+"born": 2715,
+"birthplace": "Psamathe",
+"debut": "Season 25 - Prodigy",
+"release": "2025-05-06",
+"arc": "Bounty hunter from Psamathe, raised in the Clessidra Rossa clan and trained in archery from a young age as its expected future leader. His restless streak clashed with the clan's strict code, and in 2736 one reckless choice got him cast out of the order and his family, forcing him to leave his younger sister Aurora behind. He worked alone, with his cat Artemis, until a bystander recruited him for the Apex Games."
+},
+{
+"name": "Axle",
+"class": "Skirmisher",
+"real": "Isa Wegner",
+"born": 2707,
+"birthplace": "Salvo",
+"debut": "Season 29 - Overclocked",
+"release": "2026-05-05",
+"arc": "Racer from Salvo whose family drove in Redline, a violent motorcycle battle royale; her father Klaus died competing in it. Over her mother's objections she joined and became its top racer, with Weaver as her only rival. Apex Games commissioner Kuben Blisk offered the Apex Card to the season's winner, and after a dangerous move on the final lap she woke in a hospital to be handed the card and told that Weaver had died."
+}
+]

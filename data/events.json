@@ -1,0 +1,831 @@
+[
+ {
+  "y": 2122,
+  "m": 1,
+  "e": 0,
+  "t": "Sheffield's Asteroid hits St. Louis",
+  "x": "Heinrich Hammond survives exposure to an unknown element inside it. This is the seed of the Hammond empire."
+ },
+ {
+  "y": 2187,
+  "m": 1,
+  "e": 0,
+  "t": "Hammond Engineering unveils the interstellar jump drive",
+  "x": "The first jump drive opens up colonization of other Core System planets."
+ },
+ {
+  "y": 2192,
+  "m": 1,
+  "e": 0,
+  "t": "The IMC is formed",
+  "x": "After a century of quiet mergers steered by Hammond Engineering, the major Core System corporations become the Interstellar Manufacturing Corporation."
+ },
+ {
+  "y": 2292,
+  "m": 1,
+  "e": 1,
+  "t": "The Frontier is discovered",
+  "x": "The discovery kicks off the New Space Race, and IMC colony ships found the first Frontier settlements."
+ },
+ {
+  "y": 2300,
+  "m": 1,
+  "e": 1,
+  "f": "approx.",
+  "t": "The Outlands are discovered and colonized",
+  "x": "Settlers colonize the region where the Apex Games later take place. The wiki only says the 2300s."
+ },
+ {
+  "y": 2400,
+  "m": 1,
+  "e": 1,
+  "t": "Kaleb Cross is killed",
+  "x": "He dies at the hands of Bob Woods in Zaldana City on Gaea, and his body is rushed to a Hammond Robotics facility for preservation.",
+  "l": [
+   "Revenant"
+  ]
+ },
+ {
+  "y": 2420,
+  "m": 1,
+  "e": 1,
+  "t": "Revenant's mind is uploaded into a simulacrum",
+  "x": "Hammond uploads the brain into a simulacrum body for the first time, ignoring warnings about stability.",
+  "l": [
+   "Revenant"
+  ]
+ },
+ {
+  "y": 2442,
+  "m": 1,
+  "e": 1,
+  "t": "The Corporate Wars begin",
+  "x": "The IMC fights rival corporations in the Core Systems and leaves the Frontier to fend for itself."
+ },
+ {
+  "y": 2525,
+  "m": 0,
+  "e": 1,
+  "t": "SARAS is founded by the Gibraltar family",
+  "x": "The Search and Rescue Association of Solace is founded.",
+  "l": [
+   "Gibraltar"
+  ]
+ },
+ {
+  "y": 2640,
+  "m": 1,
+  "e": 1,
+  "t": "Olympus is constructed",
+  "x": "The floating city is built with funding from billionaire Lillian Peck."
+ },
+ {
+  "y": 2646,
+  "m": 1,
+  "e": 1,
+  "t": "Somers and Reid extract branthium from a black hole",
+  "x": "Dr. Ashleigh Reid cuts Dr. Mary Somers' tether and leaves her to die. Somers escapes, having lost 87 years in what felt like 246 days.",
+  "l": [
+   "Horizon",
+   "Ash"
+  ]
+ },
+ {
+  "y": 2655,
+  "m": 1,
+  "e": 1,
+  "t": "The Outlands energy crisis begins",
+  "x": "An energy crisis grips the Outlands, driving the push to refine branthium into a reliable power source."
+ },
+ {
+  "y": 2655,
+  "m": 1,
+  "e": 1,
+  "d": "Feb 4",
+  "t": "Pathfinder is activated",
+  "x": "Project Iris scientists assemble and activate Pathfinder.",
+  "l": [
+   "Pathfinder"
+  ]
+ },
+ {
+  "y": 2655,
+  "m": 1,
+  "e": 1,
+  "d": "Dec 25",
+  "t": "The Phase Runner accident",
+  "x": "A branthium theft attempt kills the Project Iris scientists and tears a rift in Olympus, leaving the city uninhabitable. Large branthium deposits are found, ending the energy crisis, and Dr. Reid is converted into a simulacrum.",
+  "l": [
+   "Pathfinder",
+   "Ash"
+  ]
+ },
+ {
+  "y": 2671,
+  "m": 1,
+  "e": 1,
+  "t": "The Titan Wars begin",
+  "x": "The IMC returns to the Frontier and meets resistance from the Frontier Militia."
+ },
+ {
+  "y": 2692,
+  "m": 1,
+  "e": 1,
+  "t": "The Titan Wars end",
+  "x": "The IMC defeats the Militia but is left with only one fleet."
+ },
+ {
+  "y": 2700,
+  "m": 0,
+  "e": 2,
+  "t": "Pathfinder wakes up in an abandoned warehouse",
+  "x": "He wakes on Solace with no memory of who built him.",
+  "l": [
+   "Pathfinder"
+  ]
+ },
+ {
+  "y": 2702,
+  "m": 0,
+  "e": 2,
+  "t": "The Thunderdome is first built in Kings Canyon",
+  "x": "The arena that later hosts competitive fighting in the Outlands is built."
+ },
+ {
+  "y": 2702,
+  "m": 0,
+  "e": 2,
+  "t": "Bloodhound is orphaned and taken in by their uncle's tribe",
+  "x": "Bloodhound's family moves to World's Edge for work after branthium is found on Talos. Their parents die in a flash freeze.",
+  "l": [
+   "Bloodhound"
+  ]
+ },
+ {
+  "y": 2705,
+  "m": 1,
+  "e": 2,
+  "t": "The Frontier War begins",
+  "x": "New intel on the IMC lets the Militia rebuild and strike back."
+ },
+ {
+  "y": 2709,
+  "m": 1,
+  "e": 2,
+  "f": "Disputed",
+  "t": "The Militia destroys the Demeter Gateway",
+  "x": "The Titanfall campaign events strand IMC forces in the Frontier. The wiki does not date these events clearly; they may span about 2709 to 2716."
+ },
+ {
+  "y": 2715,
+  "m": 1,
+  "e": 2,
+  "f": "Disputed",
+  "t": "Typhon is destroyed",
+  "x": "The Militia sabotages the IMC's Fold Weapon, destroying the planet Typhon and killing several Apex Predator members."
+ },
+ {
+  "y": 2716,
+  "m": 0,
+  "e": 3,
+  "t": "The Nexus monarchy falls",
+  "x": "A series of battles topples the monarchy, and a Monarch-class Titan detonates its battery, leaving a quarantine zone."
+ },
+ {
+  "y": 2716,
+  "m": 0,
+  "e": 3,
+  "t": "Gibraltar and Nik are rescued by SARAS",
+  "x": "Makoa Gibraltar runs away from home and, trying to enlist with Nik, gets trapped in a mudslide and is rescued.",
+  "l": [
+   "Gibraltar"
+  ]
+ },
+ {
+  "y": 2718,
+  "m": 1,
+  "e": 3,
+  "t": "The IMC leaves Solace and the Thunderdome closes",
+  "x": "Solace, the IMC's last Outlands planet, is abandoned."
+ },
+ {
+  "y": 2718,
+  "m": 0,
+  "e": 3,
+  "t": "The Crimson goes down over Gaea",
+  "x": "A Solace military transport crashes with Mirage's three brothers aboard. They are declared missing in action.",
+  "l": [
+   "Mirage"
+  ]
+ },
+ {
+  "y": 2718,
+  "m": 0,
+  "e": 3,
+  "t": "The Blackout reaches the Outlands",
+  "x": "A communications blackout spreads to the Outlands."
+ },
+ {
+  "y": 2721,
+  "m": 1,
+  "e": 3,
+  "t": "The Outlands Civil War ends",
+  "x": "Planets that sign the Mercenary Syndicate Treaty become Syndicate Space; those that refuse become the Fringe Worlds."
+ },
+ {
+  "y": 2721,
+  "m": 1,
+  "e": 4,
+  "t": "The Thunderdome Games are revived",
+  "x": "The Games return to Kings Canyon under the treaty, powered by a new grid built by Luc Paquette."
+ },
+ {
+  "y": 2721,
+  "m": 0,
+  "e": 4,
+  "t": "Dr. Humbert is killed and Alexander Nox fakes his death",
+  "x": "Dr. Franklin Humbert finds Nox's experiments and confronts him. Nox kills him, burns the lab and fakes his own death while Pathfinder watches.",
+  "l": [
+   "Caustic",
+   "Pathfinder"
+  ]
+ },
+ {
+  "y": 2721,
+  "m": 0,
+  "e": 4,
+  "d": "Jun 10",
+  "t": "Seer fights his first Arenas match",
+  "x": "Obi Edolasim begins his Arenas career.",
+  "l": [
+   "Seer"
+  ]
+ },
+ {
+  "y": 2726,
+  "m": 1,
+  "e": 4,
+  "t": "Wraith escapes by switching dimensions",
+  "x": "She breaks out of her Kings Canyon imprisonment by swapping places with her alternate self, whose world is building the Apex Games.",
+  "l": [
+   "Wraith"
+  ]
+ },
+ {
+  "y": 2726,
+  "m": 0,
+  "e": 4,
+  "t": "Wattson's Ring prototype test",
+  "x": "Lightning strikes the generator and burns the forest. Wraith saves her.",
+  "l": [
+   "Wattson",
+   "Wraith"
+  ]
+ },
+ {
+  "y": 2730,
+  "m": 1,
+  "e": 5,
+  "t": "The first Apex Games competitors begin competing",
+  "x": "Renee Blasey, Makoa Gibraltar, Anita Williams, Ajay Che and Alexander Nox all start competing.",
+  "l": [
+   "Wraith",
+   "Gibraltar",
+   "Bangalore",
+   "Lifeline",
+   "Caustic"
+  ]
+ },
+ {
+  "y": 2730,
+  "m": 0,
+  "e": 5,
+  "t": "Tae Joon Park is framed after finding the Games' prediction algorithm",
+  "x": "His foster sister Mila is abducted and he is framed for her supposed murder.",
+  "l": [
+   "Crypto"
+  ]
+ },
+ {
+  "y": 2730,
+  "m": 0,
+  "e": 5,
+  "t": "Valkyrie takes a smuggling job from Kuben Blisk",
+  "x": "She takes the job to retrieve her father's Northstar.",
+  "l": [
+   "Valkyrie"
+  ]
+ },
+ {
+  "y": 2732,
+  "m": 0,
+  "e": 5,
+  "t": "Elliott Witt and Bloodhound begin competing",
+  "x": "Both join the Apex Games.",
+  "l": [
+   "Mirage",
+   "Bloodhound"
+  ]
+ },
+ {
+  "y": 2733,
+  "m": 0,
+  "e": 5,
+  "s": 1,
+  "t": "Apex Games registrations jump 60%",
+  "x": "The Games see an unprecedented surge in new registrations, and Octane tries out.",
+  "l": [
+   "Octane"
+  ]
+ },
+ {
+  "y": 2733,
+  "m": 0,
+  "e": 5,
+  "s": 2,
+  "t": "Crypto's EMP floods Kings Canyon with wildlife",
+  "x": "He sneaks into the arena mid-match and takes down the Repulsor tower. His sabotage prompts the Syndicate to consider new arenas.",
+  "l": [
+   "Crypto"
+  ]
+ },
+ {
+  "y": 2733,
+  "m": 0,
+  "e": 5,
+  "s": 2,
+  "t": "Wraith unearths Singh Labs",
+  "x": "She recovers documents about her past life.",
+  "l": [
+   "Wraith"
+  ]
+ },
+ {
+  "y": 2733,
+  "m": 0,
+  "e": 5,
+  "s": 3,
+  "t": "World's Edge opens and the Crypto-Mirage rivalry starts",
+  "x": "In the first match on World's Edge, Crypto and Mirage land on the same squad.",
+  "l": [
+   "Crypto",
+   "Mirage"
+  ]
+ },
+ {
+  "y": 2733,
+  "m": 0,
+  "e": 5,
+  "s": 3,
+  "t": "Pathfinder meets an alternate-universe Revenant",
+  "x": "Pathfinder accidentally enters the beta plane shadow dimension.",
+  "l": [
+   "Pathfinder",
+   "Revenant"
+  ]
+ },
+ {
+  "y": 2733,
+  "m": 1,
+  "e": 5,
+  "s": 5,
+  "t": "Revenant joins the Apex Games",
+  "x": "Loba and Jaime find that Revenant has joined and is infiltrating Kings Canyon facilities.",
+  "l": [
+   "Revenant",
+   "Loba"
+  ]
+ },
+ {
+  "y": 2733,
+  "m": 0,
+  "e": 5,
+  "s": 5,
+  "t": "Loba destroys the Revenant body warehouse and Skull Town",
+  "x": "After wrecking the warehouse, Loba is welcomed into the Games by the Syndicate and Hammond officials.",
+  "l": [
+   "Loba",
+   "Revenant"
+  ]
+ },
+ {
+  "y": 2733,
+  "m": 1,
+  "e": 5,
+  "s": 5,
+  "t": "Ash is rebuilt and the Games begin moving to Olympus",
+  "x": "The Legends assemble pieces of a beta plane artifact into Ash's head. Rebuilt, Ash starts the transfer of the Games to Olympus.",
+  "l": [
+   "Ash",
+   "Loba",
+   "Caustic"
+  ]
+ },
+ {
+  "y": 2733,
+  "m": 0,
+  "e": 5,
+  "s": 6,
+  "t": "Rampart's shop is burned and she earns a place in the Games",
+  "x": "Big Sister's gang burns her shop on Gaea. Kuben Blisk gives her a free pass into the Games for fighting back.",
+  "l": [
+   "Rampart"
+  ]
+ },
+ {
+  "y": 2733,
+  "m": 1,
+  "e": 5,
+  "s": 7,
+  "t": "The Games open on Olympus",
+  "x": "Hammond's Arcadia rocket moves supplies to Olympus, and Mirage and Rampart arrive early after chasing it. Horizon joins the Games to fund her time travel research.",
+  "l": [
+   "Mirage",
+   "Rampart",
+   "Horizon"
+  ]
+ },
+ {
+  "y": 2733,
+  "m": 0,
+  "e": 5,
+  "s": 7,
+  "t": "Octane learns his father staged the Chevrex attack",
+  "x": "At a charity event, Octane learns his father Duardo Silva ordered an attack and has Lifeline's drone record the confession. The battery they sought wakes an MRVN carrying a recording of Dr. Amelie.",
+  "l": [
+   "Octane",
+   "Lifeline",
+   "Pathfinder",
+   "Gibraltar"
+  ]
+ },
+ {
+  "y": 2734,
+  "m": 1,
+  "e": 5,
+  "s": 8,
+  "t": "Maggie and Fuse's feud escalates",
+  "x": "After Fuse qualifies through Salvo's Bonecage, Maggie blows off his arm, sabotages his welcome ceremony, hijacks the Games to trigger Ring Flares, and after a final clash apparently dies in a fall. Salvo also becomes Syndicate Space.",
+  "l": [
+   "Mad Maggie",
+   "Fuse",
+   "Lifeline",
+   "Bloodhound"
+  ]
+ },
+ {
+  "y": 2734,
+  "m": 0,
+  "e": 5,
+  "s": 8,
+  "t": "Caustic's Solace toxin experiment is thwarted",
+  "x": "Caustic plans an experiment affecting all of Solace City. Wattson stops it.",
+  "l": [
+   "Caustic",
+   "Wattson"
+  ]
+ },
+ {
+  "y": 2734,
+  "m": 1,
+  "e": 5,
+  "s": 9,
+  "t": "The Icarus Fleet docks at Olympus and the Medusa Vines spread",
+  "x": "Huge vines spread a deadly illness until the Legends stop them and a cure is made. Lifeline traces the fleet back to Duardo Silva, and she and Octane put the Silva logo back on the Icarus to turn the public against him.",
+  "l": [
+   "Lifeline",
+   "Octane"
+  ]
+ },
+ {
+  "y": 2734,
+  "m": 0,
+  "e": 5,
+  "s": 9,
+  "t": "Pathfinder's role in ending the energy crisis is made public",
+  "x": "A dedication ceremony is held on Olympus.",
+  "l": [
+   "Pathfinder"
+  ]
+ },
+ {
+  "y": 2734,
+  "m": 1,
+  "e": 5,
+  "s": 10,
+  "t": "Mary Somers awakens Ash's human identity",
+  "x": "Somers forcibly awakens the human side of Ash.",
+  "l": [
+   "Horizon",
+   "Ash"
+  ]
+ },
+ {
+  "y": 2734,
+  "m": 0,
+  "e": 5,
+  "s": 10,
+  "t": "World's Edge strains under Harvester mining",
+  "x": "The mining causes tremors, landslides and lava fissures, and Hammond Robotics responds with a Lava Siphon and Climatizer."
+ },
+ {
+  "y": 2734,
+  "m": 1,
+  "e": 5,
+  "s": 11,
+  "t": "The Syndicate acquires Storm Point",
+  "x": "Storm Point becomes a new Apex Games arena. Ash joins the Games to learn about her past and partners with Tae Joon Park.",
+  "l": [
+   "Ash",
+   "Crypto"
+  ]
+ },
+ {
+  "y": 2734,
+  "m": 1,
+  "e": 5,
+  "s": 12,
+  "t": "Mad Maggie is captured and sentenced to the Games",
+  "x": "Maggie is caught on Olympus and sentenced to death in the Apex Games.",
+  "l": [
+   "Mad Maggie"
+  ]
+ },
+ {
+  "y": 2734,
+  "m": 1,
+  "e": 5,
+  "s": 12,
+  "t": "Torres Silva is revealed as the man behind Eduardo",
+  "x": "Octavio learns his father has been dead for years and his grandfather Torres has been posing as him. Torres is elected sole Syndicate leader and turns the Frontier Corps into the militarized Syndicate Corps.",
+  "l": [
+   "Octane",
+   "Lifeline"
+  ]
+ },
+ {
+  "y": 2734,
+  "m": 1,
+  "e": 5,
+  "s": 13,
+  "t": "Jackson Williams takes the Newcastle mantle",
+  "x": "After Forgotten Families members kill Newcastle, Jackson Williams takes his place. Bangalore discovers during her supposed final match that her replacement is her brother.",
+  "l": [
+   "Newcastle",
+   "Bangalore"
+  ]
+ },
+ {
+  "y": 2734,
+  "m": 0,
+  "e": 5,
+  "s": 13,
+  "t": "Mirage steals a file on Wraith's origins",
+  "x": "Elliott Witt steals an ARES Division document describing a test subject experimented on by Dr. Renee H. Blasey.",
+  "l": [
+   "Mirage",
+   "Wraith"
+  ]
+ },
+ {
+  "y": 2734,
+  "m": 0,
+  "e": 5,
+  "s": 14,
+  "t": "Xiomara Contreras joins the Games to free her mother",
+  "x": "Her mother Xenia is arrested as a supposed Civil War traitor. Xiomara competes to draw attention to the case.",
+  "l": [
+   "Vantage"
+  ]
+ },
+ {
+  "y": 2734,
+  "m": 0,
+  "e": 5,
+  "s": 14,
+  "t": "Bloodhound's village relocates to Storm Point",
+  "x": "Mass protests break out on Boreas, and Bloodhound and their village move.",
+  "l": [
+   "Bloodhound"
+  ]
+ },
+ {
+  "y": 2734,
+  "m": 0,
+  "e": 5,
+  "s": 14,
+  "t": "Jaime is attacked over Revenant's source code",
+  "x": "An unknown assailant leaves Jaime for dead. Valkyrie later tells Revenant his code was never sent to Gridiron and offers its location if he leaves Loba alone.",
+  "l": [
+   "Loba",
+   "Revenant",
+   "Valkyrie"
+  ]
+ },
+ {
+  "y": 2734,
+  "m": 1,
+  "e": 5,
+  "s": 15,
+  "t": "The Syndicate acquires Hope on Cleo as an arena",
+  "x": "The colony of Hope becomes the newest Apex Games arena. CRC terraformer Tressa Crystal Smith joins the Games.",
+  "l": [
+   "Catalyst"
+  ]
+ },
+ {
+  "y": 2734,
+  "m": 0,
+  "e": 5,
+  "s": 15,
+  "t": "Seer's parents are targeted by Boreas protesters",
+  "x": "Protesters attack their home, blaming them and their son for recent events. Torres Silva moves them to a safehouse.",
+  "l": [
+   "Seer"
+  ]
+ },
+ {
+  "y": 2735,
+  "m": 1,
+  "e": 5,
+  "s": 16,
+  "t": "Lifeline recruits for an operation against the Syndicate",
+  "x": "Ajay Che approaches several Legends. Only Tae Joon Park joins, and together they learn the Syndicate Corps is running an off-the-books operation on Salvo.",
+  "l": [
+   "Lifeline",
+   "Crypto",
+   "Fuse"
+  ]
+ },
+ {
+  "y": 2735,
+  "m": 0,
+  "e": 5,
+  "s": 16,
+  "t": "Maggie escapes prison with Lifeline's help",
+  "x": "Ajay Che disables a camera and knocks out a guard, and the two head for Salvo.",
+  "l": [
+   "Mad Maggie",
+   "Lifeline"
+  ]
+ },
+ {
+  "y": 2735,
+  "m": 0,
+  "e": 5,
+  "s": 17,
+  "t": "Ballistic's family fights for a place in the Games",
+  "x": "Nathaniel Phua qualifies, and Ballistic pressures Torres Silva into letting him in instead of his son.",
+  "l": [
+   "Ballistic"
+  ]
+ },
+ {
+  "y": 2735,
+  "m": 1,
+  "e": 5,
+  "s": 17,
+  "t": "Legends find a Revenant-body facility on Salvo",
+  "x": "Lifeline, Mad Maggie and Loba find a facility building Revenant bodies. Valkyrie rescues the group. Torres also assigns Mila Alexander to watch the Legends.",
+  "l": [
+   "Lifeline",
+   "Mad Maggie",
+   "Loba",
+   "Valkyrie"
+  ]
+ },
+ {
+  "y": 2735,
+  "m": 0,
+  "e": 5,
+  "s": 17,
+  "t": "Revenant gets an upgraded chassis as a storm nears Storm Point",
+  "x": "Torres Silva takes control of the project as a massive storm approaches.",
+  "l": [
+   "Revenant"
+  ]
+ },
+ {
+  "y": 2735,
+  "m": 1,
+  "e": 5,
+  "s": 18,
+  "t": "Legends raid Hammond Labs to destroy Revenant's source code",
+  "x": "A team infiltrates the Malta facility but fails. Loba then discovers Valkyrie made a deal with Revenant to find the code, badly damaging their relationship.",
+  "l": [
+   "Lifeline",
+   "Crypto",
+   "Revenant",
+   "Loba",
+   "Valkyrie",
+   "Mad Maggie"
+  ]
+ },
+ {
+  "y": 2735,
+  "m": 1,
+  "e": 5,
+  "s": 19,
+  "t": "Torres Silva is murdered and Revenant reclaims his source code",
+  "x": "The Syndicate leader is killed and Revenant takes back his code.",
+  "l": [
+   "Revenant"
+  ]
+ },
+ {
+  "y": 2735,
+  "m": 0,
+  "e": 5,
+  "s": 19,
+  "t": "Conduit enters the Games in a rig built from Titan remains",
+  "x": "She builds a combat rig from irradiated Monarch Titan wreckage and joins for the money. Wattson helps Storm Point recover from the storm.",
+  "l": [
+   "Conduit",
+   "Wattson"
+  ]
+ },
+ {
+  "y": 2735,
+  "m": 0,
+  "e": 5,
+  "s": 21,
+  "f": "Implied",
+  "t": "A parallel Olympus appears in the Outlands",
+  "x": "A parallel Olympus appears in the Outlands. It destroys the Stasis Net satellite above Cleo, freeing the Hope colony. The wiki presents this as Alter's arrival in that universe.",
+  "l": [
+   "Alter"
+  ]
+ },
+ {
+  "y": 2735,
+  "m": 0,
+  "e": 5,
+  "s": 25,
+  "t": "Sparrow befriends a stray cat named Artemis",
+  "x": "He befriended a stray cat and named her Artemis.",
+  "l": [
+   "Sparrow"
+  ]
+ },
+ {
+  "y": null,
+  "m": 0,
+  "e": 5,
+  "s": 20,
+  "t": "Octane wins the time gauntlet for Horizon",
+  "x": "After Torres Silva's funeral, the Syndicate holds a contest for an item from his collection. Octane wins the time gauntlet and hands it to Horizon.",
+  "l": [
+   "Octane",
+   "Horizon",
+   "Lifeline",
+   "Seer"
+  ]
+ },
+ {
+  "y": null,
+  "m": 1,
+  "e": 5,
+  "s": 21,
+  "t": "Alter steals an Ark Shard and deals with Horizon",
+  "x": "Alter takes the shard from a guarded facility, gets an Apex Card, and gives the shard to Horizon to help her return to her son Newton.",
+  "l": [
+   "Alter",
+   "Horizon"
+  ]
+ },
+ {
+  "y": null,
+  "m": 1,
+  "e": 5,
+  "s": 22,
+  "t": "Ash tries to destroy the Ark Shard to stop Horizon",
+  "x": "Ash breaks into Horizon's makeshift lab to destroy the shard and halt her time travel research.",
+  "l": [
+   "Ash",
+   "Horizon"
+  ]
+ },
+ {
+  "y": null,
+  "m": 0,
+  "e": 5,
+  "s": 22,
+  "t": "Seer is briefly replaced by an alternate version of himself",
+  "x": "It happens during an art lecture he gives to Octane.",
+  "l": [
+   "Seer",
+   "Octane"
+  ]
+ },
+ {
+  "y": 2736,
+  "m": 0,
+  "e": 5,
+  "s": 25,
+  "t": "Sparrow is cast out of the Clessidra Rossa and his family",
+  "x": "After one reckless decision, he was cast out of the order and his family permanently. He was forbidden from returning home and had to leave his younger sister, Aurora, behind. Artemis followed him to his new apartment.",
+  "l": [
+   "Sparrow"
+  ]
+ }
+]
