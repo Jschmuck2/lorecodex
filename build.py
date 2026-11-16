@@ -89,7 +89,7 @@ years = [e['y'] for e in events if e.get('y')]
 stats = [(len(legends), 'Legends'), (len(seasons), 'Seasons'), (len(events), 'Story events'), (max(years) - min(years), 'Years of history')]
 home = f'''
 <section class="hero"><div class="kicker">Apex Legends &middot; Lore Codex</div>
-<h1>Every story of the Outlands, in one place.</h1>
+<h1>Every Outlands story in one place.</h1>
 <p class="lede">New to Apex or years deep in the lore? Meet the Legends, follow the story year by year, and see what changed every season. All dates are in-universe years.</p>
 <div class="btns"><a class="btn primary" href="legends.html">Meet the Legends</a><a class="btn" href="timeline.html?major=1">Read the big story</a><a class="btn" href="seasons.html">Browse seasons</a></div></section>
 <section class="now" id="now" aria-live="polite"></section>
